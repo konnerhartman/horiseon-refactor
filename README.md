@@ -12,9 +12,11 @@ HTML CHANGES
             * <div class="benefits"> to <aside>
             * <div class="footer"> to <footer>
     
-    There was a broken link in the nav bar. The SEO link did not take the user to the SEO box. This required the 'id="search-engine-optimization"' to be added into the <article> of the SEO Section in the index.html. 
+    There was a broken link in the nav bar. The SEO link did not take the user to the SEO box. This required the 'id="search-engine-optimization"' to be added into the <article> tag of the SEO Section in the index.html. 
 
     All images were missing "alt:" attributes. These were added to all images. 
+
+    Footer was changed from a <h2> to a <h3>. 
 
 CSS CHANGES
 
@@ -23,3 +25,10 @@ CSS CHANGES
     Elements were placed in more logical order. 
 
     IDs were removed and replaced with proper semantic tags. 
+
+LINK TO WEBPAGE
+
+    https://konnerhartman.github.io/horiseon-refactor/
+
+SCREENSHOT
+    ![plot](./assets/images/Horiseon-Refactor-Screenshot.png)
